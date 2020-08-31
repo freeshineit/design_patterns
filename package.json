@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "singleton": "ts-node src/Singleton/index.ts",
+    "factory": "ts-node src/Factory/index.ts",
     "build": "tsc"
   },
   "repository": {
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/freeshineit/design_patterns#readme",
   "devDependencies": {
+    "jest": "^26.4.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
   }
