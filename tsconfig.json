@@ -10,9 +10,9 @@
     /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */
     "lib": ["DOM", "ES2015", "ESNext"],
     /* Specify library files to be included in the compilation. */
-    "allowJs": true,
+    // "allowJs": true,
     /* Allow javascript files to be compiled. */
-    "checkJs": true,
+    // "checkJs": true,
     /* Report errors in .js files. */
     // "jsx": "preserve",                     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
