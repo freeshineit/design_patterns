@@ -4,9 +4,9 @@
 
 ## 创建型模式
 
-- [x][单例模式](./src/Singleton)
+- [x] [单例模式](./src/Singleton)
 
-- [ ][工厂方法模式](./src/Factory)
+- [ ] [工厂方法模式](./src/Factory)
 
 - [抽象工厂模式]
 
