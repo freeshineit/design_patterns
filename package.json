@@ -1,0 +1,25 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "singleton": "ts-node src/Singleton/index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeshineit/design_patterns.git"
+  },
+  "keywords": [],
+  "author": "shineshao <xiaoshaoqq@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeshineit/design_patterns/issues"
+  },
+  "homepage": "https://github.com/freeshineit/design_patterns#readme",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
