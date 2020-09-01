@@ -1,18 +1,19 @@
 abstract class BMW {
-  public BMW() {}
+  abstract BMW(): void;
   abstract name: string;
 }
 
 class BMW320 extends BMW {
   name = "BMW320";
-  public BMW320() {
+
+  BMW(): void {
     console.log("制造-->BMW320");
   }
 }
 
 class BMW523 extends BMW {
   name = "BMW523";
-  public BMW523() {
+  BMW(): void {
     console.log("制造-->BMW523");
   }
 }
