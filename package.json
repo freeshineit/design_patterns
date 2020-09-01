@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "singleton": "ts-node src/Singleton/index.ts",
-    "factory": "ts-node src/Factory/index.ts",
+    "iop": "ts-node src/Programming_Ideas/IOP/index.ts",
+    "oop": "ts-node src/Programming_Ideas/OOP/index.ts",
+    "singleton": "ts-node src/Design_Patterns/Singleton/index.ts",
+    "factory": "ts-node src/Design_Patterns/Factory/index.ts",
     "build": "tsc"
   },
   "repository": {

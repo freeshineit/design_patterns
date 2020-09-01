@@ -1,14 +1,24 @@
+## 编程思想
+
+- [OOP](./src/Programming_Ideas/OOP)(面向对象)
+
+- [IOP](./src/Programming_Ideas/IOP)(面向接口)
+
+- [AOP](./src/Programming_Ideas/AOP)(面向切面)
+
+- [POP](./src/Programming_Ideas/POP)(面向过程 git、linux)
+
 ## 设计模式（23 种设计模式）-- typescript
 
 <!-- https://blog.csdn.net/jason0539/article/details/44956775 -->
 
 ## 创建型模式
 
-- [x] [单例模式](./src/Singleton)
+- [x] [单例模式](./src/Design_Patterns/Singleton)
 
-- [x] [工厂方法模式](./src/Factory)
+- [x] [工厂方法模式](./src/Design_Patterns/Factory)
 
-- [x] [抽象工厂模式](./src/Factory)
+- [x] [抽象工厂模式](./src/Design_Patterns/Factory)
 
 - [建造者模式]
 
