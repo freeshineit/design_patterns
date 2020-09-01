@@ -6,9 +6,9 @@
 
 - [x] [单例模式](./src/Singleton)
 
-- [ ] [工厂方法模式](./src/Factory)
+- [x] [工厂方法模式](./src/Factory)
 
-- [抽象工厂模式]
+- [x] [抽象工厂模式](./src/Factory)
 
 - [建造者模式]
 
