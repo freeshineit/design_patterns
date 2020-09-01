@@ -68,4 +68,4 @@ export default SimpleFactory;
 
 > yarn run build
 
-> node src/Factory/index.js
+> node dist/Factory/index.js

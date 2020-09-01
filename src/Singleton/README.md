@@ -69,4 +69,4 @@ export default Singleton;
 
 > yarn run build
 
-> node src/Singleton/index.js
+> node dist/Singleton/index.js
