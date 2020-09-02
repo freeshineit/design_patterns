@@ -8,6 +8,8 @@
 
 - [POP](./src/Programming_Ideas/POP)(面向过程 git、linux)
 
+## [算法](./src/Algorithm)
+
 ## 设计模式（23 种设计模式）-- typescript
 
 <!-- https://blog.csdn.net/jason0539/article/details/44956775 -->
@@ -26,11 +28,9 @@
 
 ## 结构型模式
 
-适配器模式
+- [适配器模式] \*\*
 
-- [适配器模式]
-
-- [装饰器模式]
+- [装饰器模式] \*\*
 
 - [代理模式] \*\*
 
