@@ -8,6 +8,7 @@
     "oop": "ts-node src/Programming_Ideas/OOP/index.ts",
     "singleton": "ts-node src/Design_Patterns/Singleton/index.ts",
     "factory": "ts-node src/Design_Patterns/Factory/index.ts",
+    "adapter": "ts-node src/Design_Patterns/Adapter/index.ts",
     "build": "tsc"
   },
   "repository": {
