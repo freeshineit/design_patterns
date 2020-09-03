@@ -22,7 +22,7 @@
 
 - [x] [抽象工厂模式](./src/Design_Patterns/Factory)
 
-- [建造者模式] \*\*
+- [建造者模式]
 
 - [原型模式]
 
@@ -30,9 +30,9 @@
 
 - [x] [适配器模式](./src/Design_Patterns/Adapter) \*\*
 
-- [装饰器模式] \*\*
+- [x] [装饰器模式](./src/Design_Patterns/Decorator) \*\*
 
-- [代理模式] \*\*
+- [x] [代理模式](./src/Design_Patterns/Proxy) \*\*
 
 - [外观模式]
 
@@ -48,7 +48,7 @@
 
 - [模板方法模式] \*\*
 
-- [观察者模式] \*\*\*
+- [x] [观察者模式](src/Design_Patterns/Observer/) \*\*\*
 
 - [迭代器模式]
 
