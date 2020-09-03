@@ -9,6 +9,8 @@
     "singleton": "ts-node src/Design_Patterns/Singleton/index.ts",
     "factory": "ts-node src/Design_Patterns/Factory/index.ts",
     "adapter": "ts-node src/Design_Patterns/Adapter/index.ts",
+    "decorator": "ts-node src/Design_Patterns/Decorator/index.ts",
+    "proxy": "ts-node src/Design_Patterns/Proxy/index.ts",
     "build": "tsc"
   },
   "repository": {
