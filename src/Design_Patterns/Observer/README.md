@@ -25,3 +25,4 @@
 > yarn run build
 
 > node dist/Design_Patterns/Observer/index.js
+> node dist/Design_Patterns/Observer/node-events.js
