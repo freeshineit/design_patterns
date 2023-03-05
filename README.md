@@ -66,7 +66,7 @@
 
 - [解释器模式]
 
-## 设计模式的六大原则
+## [设计模式的六大原则](https://github.com/freeshineit/design_patterns/issues/20)
 
 [设计原则](https://www.bilibili.com/video/BV1kW411P7KS/?spm_id_from=333.788.videocard.1)
 
