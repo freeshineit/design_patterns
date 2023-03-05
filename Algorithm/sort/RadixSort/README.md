@@ -17,4 +17,4 @@
 
 ## 运行
 
-> node src/Algorithm/排序/RadixSort/index.js
+> npx ts-node ./Algorithm/sort/RadixSort/index.ts

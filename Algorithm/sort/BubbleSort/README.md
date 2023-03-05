@@ -22,4 +22,4 @@
 
 ## 运行
 
-> node src/Algorithm/排序/BubbleSort/index.js
+> npx ts-node ./Algorithm/sort/BubbleSort/index.js

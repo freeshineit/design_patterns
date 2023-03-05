@@ -1,4 +1,13 @@
-function insertionSort(arr) {
+/**
+ * 插入排序
+ *
+ * @example
+ *
+ * insertionSort([22, 34, 3, 32, 82, 55, 89, 50, 37, 5, 64, 35, 9, 70]) // => [3,  5,  9, 22, 32, 34, 35, 37, 50, 55, 64, 70, 82, 89]
+ *
+ * @param {Array<number>} arr
+ */
+function insertionSort(arr: number[]) {
   let min;
   for (let i = 0; i < arr.length - 1; i++) {
     min = i;

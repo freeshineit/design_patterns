@@ -19,4 +19,4 @@
 
 ## 运行
 
-> node src/Algorithm/排序/SelectionSort/index.js
+>npx ts-node ./Algorithm/sort/SelectionSort/index.ts
