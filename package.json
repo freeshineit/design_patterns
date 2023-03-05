@@ -1,16 +1,15 @@
 {
   "name": "design_patterns",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "设计模式",
   "scripts": {
-    "iop": "ts-node src/Programming_Ideas/IOP/index.ts",
-    "oop": "ts-node src/Programming_Ideas/OOP/index.ts",
-    "singleton": "ts-node src/Design_Patterns/Singleton/index.ts",
-    "factory": "ts-node src/Design_Patterns/Factory/index.ts",
-    "adapter": "ts-node src/Design_Patterns/Adapter/index.ts",
-    "decorator": "ts-node src/Design_Patterns/Decorator/index.ts",
-    "proxy": "ts-node src/Design_Patterns/Proxy/index.ts",
+    "iop": "ts-node Programming_Ideas/IOP/index.ts",
+    "oop": "ts-node Programming_Ideas/OOP/index.ts",
+    "singleton": "ts-node Design_Patterns/Singleton/index.ts",
+    "factory": "ts-node Design_Patterns/Factory/index.ts",
+    "adapter": "ts-node Design_Patterns/Adapter/index.ts",
+    "decorator": "ts-node Design_Patterns/Decorator/index.ts",
+    "proxy": "ts-node Design_Patterns/Proxy/index.ts",
     "build": "tsc"
   },
   "repository": {
@@ -18,15 +17,16 @@
     "url": "git+https://github.com/freeshineit/design_patterns.git"
   },
   "keywords": [],
-  "author": "shineshao <xiaoshaoqq@gmail.com>",
+  "author": "ShineShao <xiaoshaoqq@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/freeshineit/design_patterns/issues"
   },
   "homepage": "https://github.com/freeshineit/design_patterns#readme",
   "devDependencies": {
+    "@types/node": "^18.14.6",
     "jest": "^26.4.2",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.2"
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
   }
 }
